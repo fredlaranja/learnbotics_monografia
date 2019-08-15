@@ -1,2 +1,2 @@
-# elir_actuation_final_report
-Final report about electrical inspection robot development
+# Learnbotics
+Final report about Learnbotics
